@@ -1,27 +1,27 @@
 [
     {
         "fold": 1,
-        "best_val_acc": 0.676,
-        "best_val_loss": 0.9627954750061035
+        "best_val_acc": 0.6784,
+        "best_val_loss": 0.987054047870636
     },
     {
         "fold": 2,
-        "best_val_acc": 0.6836,
-        "best_val_loss": 0.9621466457366943
+        "best_val_acc": 0.6728,
+        "best_val_loss": 0.9951598214149475
     },
     {
         "fold": 3,
-        "best_val_acc": 0.6805,
-        "best_val_loss": 0.9826263721466064
+        "best_val_acc": 0.6698,
+        "best_val_loss": 0.9832894672393799
     },
     {
         "fold": 4,
-        "best_val_acc": 0.6696,
-        "best_val_loss": 0.9815347087860108
+        "best_val_acc": 0.6812,
+        "best_val_loss": 0.9867006752967834
     },
     {
         "fold": 5,
-        "best_val_acc": 0.6642,
-        "best_val_loss": 1.0039610295295716
+        "best_val_acc": 0.6708,
+        "best_val_loss": 0.9827781629562378
     }
 ]
