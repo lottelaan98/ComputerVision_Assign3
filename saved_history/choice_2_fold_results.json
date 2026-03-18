@@ -1,0 +1,27 @@
+[
+    {
+        "fold": 1,
+        "best_val_acc": 0.676,
+        "best_val_loss": 0.9627954750061035
+    },
+    {
+        "fold": 2,
+        "best_val_acc": 0.6836,
+        "best_val_loss": 0.9621466457366943
+    },
+    {
+        "fold": 3,
+        "best_val_acc": 0.6805,
+        "best_val_loss": 0.9826263721466064
+    },
+    {
+        "fold": 4,
+        "best_val_acc": 0.6696,
+        "best_val_loss": 0.9815347087860108
+    },
+    {
+        "fold": 5,
+        "best_val_acc": 0.6642,
+        "best_val_loss": 1.0039610295295716
+    }
+]
